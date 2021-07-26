@@ -36,7 +36,7 @@ function setup() {
   player.addAnimation("running", player_running);
   player.addAnimation("collided" , player_collided)
   player.scale = 0.5;
-  player.debug=true
+  
  
   var1 = createSprite(300,90);
   var1.addImage(var2);
